@@ -1,6 +1,0 @@
-RewriteEngine On
-
-# 1. Set the base to the current directory
-RewriteBase /
-
-   
